@@ -1,4 +1,4 @@
-![logo]([https://github.com](https://github.com/abdullah-785/abdullah-785/)
+![logo](https://github.com/abdullah-785/abdullah-785/blob/main/Screenshot%20(75).png)
 <h1 align="center">Hi 👋, I'm Abdullah Mehmood</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
