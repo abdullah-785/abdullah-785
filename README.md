@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
-- 👨‍💻 All of my projects are available at [https://abdullahservicesforyou.netlify.app/](https://abdullahservicesforyou.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdullahmehmood01.netlify.app/](https://abdullahmehmood01.netlify.app/)
 
-- 📝 I regularly write articles on [https://abdullahservicesforyou.netlify.app/](https://abdullahservicesforyou.netlify.app/)
+- 📝 I regularly write articles on [https://abdullahmehmood01.netlify.app/](https://abdullahmehmood01.netlify.app/)
 
 - 📫 How to reach me **abdullah.mehmood325@gmail.com**
 
-- 📄 Know about my experiences [https://abdullahservicesforyou.netlify.app/](https://abdullahservicesforyou.netlify.app/)
+- 📄 Know about my experiences [https://abdullahmehmood01.netlify.app/](https://abdullahmehmood01.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
