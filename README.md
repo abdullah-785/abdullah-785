@@ -1,6 +1,6 @@
 ![logo](https://github.com/abdullah-785/abdullah-785/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Abdullah Mehmood</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">A passionate flutter developer from United Kingdom
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-785&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-785" /> </p>
 
